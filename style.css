@@ -8,7 +8,11 @@
 
 body{
     background-image: url('bangladesh.png');
-   
+    background-position: center;
+    margin: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+ 
 }
 
 .main{
@@ -25,7 +29,6 @@ body{
     height: 10rem;
     padding: 10px;
     border-radius: 10px;
-    background-color: white;
     font-optical-sizing: auto;
     font-size: 25px;
     font-style: normal;
@@ -39,6 +42,11 @@ button{
     display: block;
     background-color: black;
     color: white;
-    font-size: 35px;
+    font-size: 45px;
     border-radius: 5px;
+}
+
+.kere{
+    background-color: white;
+    font-size: 25px;
 }
