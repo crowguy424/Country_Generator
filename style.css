@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Molle&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Sedan+SC&family=Song+Myung&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Oswald", sans-serif;
+}
+
+body{
+    background-image: url('bangladesh.png');
+   
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: space-around;
+   
+}
+
+.container {
+    width: 15rem;
+    height: 10rem;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    font-optical-sizing: auto;
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+}
+
+button{
+    margin-top: 5px;
+    width: 100%;
+    height: 50%;
+    display: block;
+    background-color: black;
+    color: white;
+    font-size: 35px;
+    border-radius: 5px;
+}
