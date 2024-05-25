@@ -88,7 +88,15 @@ var images = [
     { name: "Iraq", url: "iraq.jpg"},
     { name: "Ireland", url: "ireland.jpg"},
     { name: "Italy", url: "italy.jpg"},
-
+    { name: "Jamaica", url: "jamaica.jpg"},
+    { name: "Japan", url: "japan.jpg"},
+    { name: "Jordan", url: "jordan.jpg"},
+    { name: "Kazakhstan", url: "Kazakh.jpg"},
+    { name: "Kenya", url: "kenya.jpg"},
+    { name: "Kiribati", url: "kiribati.jpg"},
+    { name: "Kuwait", url: "kuwait.jpg"},
+    { name: "Kyrgyzstan", url: "kyrgy.jpg"},
+    { name: "Laos", url: "laos.jpg"},
     
     
 
