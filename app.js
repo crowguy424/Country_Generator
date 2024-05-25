@@ -97,9 +97,17 @@ var images = [
     { name: "Kuwait", url: "kuwait.jpg"},
     { name: "Kyrgyzstan", url: "kyrgy.jpg"},
     { name: "Laos", url: "laos.jpg"},
-    
-    
+    { name: "Latvia", url: "latvia.jpg"},
+    { name: "Lebanon", url: "lebanon.jpg"},
+    { name: "Lesotho", url: "lesotho.png"},
+    { name: "Liberia", url: "lib.jpg"},
+    { name: "Libya", url: "libya.jpg"},
+    { name: "Liechtenstein", url: "lie.jpg"},
+    { name: "Lithuania", url: "lithuania.jpg"},
+    { name: "Luxembourg", url: "luxembourg.jpg"},
 
+    
+    
     // Add more image objects as needed
 ];
 const generate = () => {
