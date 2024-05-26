@@ -105,6 +105,16 @@ var images = [
     { name: "Liechtenstein", url: "lie.jpg"},
     { name: "Lithuania", url: "lithuania.jpg"},
     { name: "Luxembourg", url: "luxembourg.jpg"},
+    { name: "Madagascar", url: "madagascar.jpg"},
+    { name: "Malawi", url: "malawi.jpg"},
+    { name: "Malaysia", url: "malaysia.jpg"},
+    { name: "Maldives", url: "maldives.jpg"},
+    { name: "Mali", url: "mali.jpg"},
+    { name: "Malta", url: "malta.jpg"},
+    { name: "Marshall Islands", url: "marsh.jpg"},
+
+
+
 
     
     
