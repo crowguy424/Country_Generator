@@ -115,6 +115,12 @@ var images = [
     { name: "Mauritania", url: "mauritania.jpg"},
     { name: "Mauritius", url: "Mauritius.jpg"},
     { name: "Abkhazia", url: "abz.jpg"},
+    { name: "Mexico", url: "mex.jpg"},
+    { name: "Micronesia", url: "micro.jpg"},
+    { name: "Moldova", url: "mol.svg"},
+
+
+
 
 
     
