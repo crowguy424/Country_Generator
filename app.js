@@ -25,7 +25,7 @@ var images = [
     { name: "Bosnia and Herzegovina", url: "bos.jpg" },
     { name: "Botswana", url: "botswana.png" },
     { name: "Brazil", url: "brazil.jpg" },
-    { name: "Brunei", url: "brunei.png" },
+    { name: "Brunei Darussalam", url: "brunei.png" },
     { name: "Bulgaria", url: "Bulgaria.jpg" },
     { name: "Burkina Faso", url: "Burk.png" },
     { name: "Burundi", url: "Burundi.png" },
@@ -67,7 +67,7 @@ var images = [
     { name: "France", url: "fra.jpg" },
     { name: "Gabon", url: "gabon.jpg" },
     { name: "Gambia", url: "gam.jpg" },
-    { name: "Georgia", url: "george.gif" },
+    { name: "Georgia", url: "george.jpg" },
     { name: "Germany", url: "germ.jpg" },
     { name: "Ghana", url: "ghana.png" },
     { name: "Greece", url: "greece.jpg" },
@@ -112,6 +112,12 @@ var images = [
     { name: "Mali", url: "mali.jpg"},
     { name: "Malta", url: "malta.jpg"},
     { name: "Marshall Islands", url: "marsh.jpg"},
+    { name: "Mauritania", url: "mauritania.jpg"},
+    { name: "Mauritius", url: "Mauritius.jpg"},
+    { name: "Abkhazia", url: "abz.jpg"},
+
+
+    
 
 
 
