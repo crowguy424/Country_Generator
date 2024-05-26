@@ -29,7 +29,7 @@ var images = [
     { name: "Bulgaria", url: "Bulgaria.jpg" },
     { name: "Burkina Faso", url: "Burk.png" },
     { name: "Burundi", url: "Burundi.png" },
-    { name: "Burma", url: "burma.jpg" },
+    { name: "Myanmar(formerly Burma)", url: "burma.jpg" },
     { name: "Côte d'Ivoire", url: "ivory.jpg" },
     { name: "Burma", url: "burma.jpg" },
     { name: "Cape Verde", url: "Cape.png" },
@@ -118,18 +118,32 @@ var images = [
     { name: "Mexico", url: "mex.jpg"},
     { name: "Micronesia", url: "micro.jpg"},
     { name: "Moldova", url: "mol.svg"},
+    { name: "Monaco", url: "monaco.jpg"},
+    { name: "Mongolia", url: "mongol.jpg"},
+    { name: "Monaco", url: "monaco.jpg"},
+    { name: "Montenegro", url: "montenegro.jpg"},
+    { name: "Monzambique", url: "mozam.jpg"},
+    { name: "Morocco", url: "morocco.jpg"},
+    { name: "Namibia", url: "namibia.jpg"},
+    { name: "Nauru", url: "nauru.jpg"},
+    { name: "Netherlands", url: "netherlands.jpg"},
+    { name: "New Zealand", url: "newz.jpg"},
+    { name: "Nicaragua", url: "nica.jpg"},
+    { name: "Niger", url: "niger.jpg"},
+    { name: "Nigeria", url: "nigeria.jpg"},
+    { name: "North Korea", url: "north.jpg"},
+    { name: "North Macedonia", url: "mac.jpg"},
+    { name: "Norway", url: "nor.jpg"},
+    { name: "Oman", url: "oman.jpg"},
 
 
 
 
 
-    
 
 
 
 
-    
-    
     // Add more image objects as needed
 ];
 const generate = () => {
