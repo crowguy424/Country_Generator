@@ -120,7 +120,6 @@ var images = [
     { name: "Moldova", url: "mol.svg"},
     { name: "Monaco", url: "monaco.jpg"},
     { name: "Mongolia", url: "mongol.jpg"},
-    { name: "Monaco", url: "monaco.jpg"},
     { name: "Montenegro", url: "montenegro.jpg"},
     { name: "Monzambique", url: "mozam.jpg"},
     { name: "Morocco", url: "morocco.jpg"},
@@ -135,10 +134,21 @@ var images = [
     { name: "North Macedonia", url: "mac.jpg"},
     { name: "Norway", url: "nor.jpg"},
     { name: "Oman", url: "oman.jpg"},
-
-
-
-
+    { name: "Pakistan", url: "Pakistan.jpg"},
+    { name: "Palau", url: "palau.jpg"},
+    { name: "Palestine", url: "Palestine.jpg"},
+    { name: "Panama", url: "panama.jpg"},
+    { name: "Papua New Guinea", url: "papua.jpg"},
+    { name: "Paraguay", url: "paraguay.jpg"},
+    { name: "Peru", url: "peru.jpg"},
+    { name: "Philippines", url: "phil.jpg"},
+    { name: "Poland", url: "poland.jpg"},
+    { name: "Portugal", url: "por.jpg"},
+    { name: "Qatar", url: "q.jpg"},
+    { name: "Romania", url: "rom.jpg"},
+    { name: "Russia", url: "rus.jpg"},
+    { name: "Rwanda", url: "rw.jpg"},
+    { name: "Saint Kitts and Nevis", url: "nev.jpg"},
 
 
 
