@@ -149,6 +149,7 @@ var images = [
     { name: "Russia", url: "rus.jpg"},
     { name: "Rwanda", url: "rw.jpg"},
     { name: "Saint Kitts and Nevis", url: "nev.jpg"},
+    { name: "Saint Lucia", url: "saintl.jpg"},
 
 
 
@@ -159,6 +160,7 @@ var images = [
 const generate = () => {
     var randomIndex = Math.floor(Math.random() * images.length);
     var selectedImage = images[randomIndex];
+    images.alt = "Car " + (randomIndex + 1);
 
     document.body.style.backgroundImage = "url('" + selectedImage.url + "')";
     document.getElementById("imageName").textContent = selectedImage.name;
