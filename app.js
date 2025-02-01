@@ -150,6 +150,7 @@ var images = [
     { name: "Rwanda", url: "rw.jpg"},
     { name: "Saint Kitts and Nevis", url: "nev.jpg"},
     { name: "Saint Lucia", url: "saintl.jpg"},
+    { name: "Saint Vincent and the Grenadines", url: "saintv.png"}
 
 
 
